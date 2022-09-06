@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-- :wave: Hi, I'm @richardclinton
+- :wave: Hi, I'm Clinton Joseph
 - 🔭 I’m currently working on Django
 - 🌱 I’m currently learning React
 - 💬 Ask me about Python, Django, odoo, kotlin, android development.
