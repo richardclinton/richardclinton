@@ -1,5 +1,7 @@
 <!-- ### Hi there 👋 -->
 - :wave: I'm @richardclinton
+- 🔭 I’m currently working on Django
+- 💬 Ask me about Python,PHP, JAVA, DJANGO, ODOO, KOTLIN, ANGULAR
 <!--
 **richardclinton/richardclinton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
