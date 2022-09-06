@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 - :wave: Hi, I'm @richardclinton
 - 🔭 I’m currently working on Django
-- 💬 Ask me about Python,PHP, JAVA, DJANGO, ODOO, KOTLIN
+- 💬 Ask me about Python,Django,odoo,kotlin, android development.
 - - 🌱 I’m currently learning React
 <!--
 **richardclinton/richardclinton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
