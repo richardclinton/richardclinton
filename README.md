@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm Clinton Joseph, a Full-Stack software engineer.
-
 <!--
 **richardclinton/richardclinton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
