@@ -2,7 +2,7 @@
 - :wave: Hi, I'm Clinton Joseph
 - 🔭 I’m currently working on Django
 - 🌱 I’m currently learning React
-- 💬 Ask me about Python, Django, odoo, kotlin, android development.
+- 💬 Ask me about Python, Django, odoo, kotlin, Android development.
 - 📫 How to reach me: richardclinton42@gmail.com
 <!--
 **richardclinton/richardclinton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
